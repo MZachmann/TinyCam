@@ -1,0 +1,11 @@
+[Unit]
+Description=TinyCam Startup Script
+After=multi-user.target
+ 
+[Service]
+Type=simple
+ExecStart=/home/MyName/tinycam.sh
+ 
+[Install]
+WantedBy=multi-user.target
+
