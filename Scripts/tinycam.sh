@@ -1,5 +1,6 @@
 #!/bin/sh -
 # disable power management for wifi
+iw wlan0 set power_save off
 iwconfig wlan0 power off
 # run video server
 export LD_LIBRARY_PATH=/usr/local/lib/mjpg-streamer
