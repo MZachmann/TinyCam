@@ -12,4 +12,5 @@ The files to support the service are in Scripts but change the home folder path 
 Addon files to the web site.
 
 ## SpindleView
-A ready-to-run copy of SpindleView. To run it in a browser ensure that the node app 'http-server' is installed and then run it in the SpindleView folder. Browse to localhost:8080 or port as specified.
+A ready-to-run copy of SpindleView. <br>
+One way to run it in a browser: ensure that the node app 'http-server' is installed and then run that in the SpindleView folder. Browse to localhost:8080 or port as specified while it's running.
