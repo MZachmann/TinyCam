@@ -1,6 +1,7 @@
 # TinyCam
 Random materials related to my tiny Raspberry Pi Zero W2-based sealed camera.
 The article writeup is here: https://medium.com/home-wireless/a-tiny-sealed-raspberry-pi-webcam-594896965de6
+The latest source code and distributable is here: https://github.com/MZachmann/SpindleView 
 
 ## Stl Files
 There are stl files for the various pieces of the box.
